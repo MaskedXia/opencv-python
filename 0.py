@@ -1,0 +1,1 @@
+#重置脚本（everything）
